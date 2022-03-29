@@ -2,8 +2,8 @@
 title:               'Today I Learned'
 tagline:             'Notes to self about software development'
 description:         ''
-url:                 'https://appdev-projects.github.io/'
-baseurl:             'til/'
+url:                 'https://raghubetina.github.io/'
+baseurl:             'til-22-th/'
 paginate:            5
 permalink:           pretty
 
